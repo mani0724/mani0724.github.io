@@ -525,7 +525,7 @@ a {
         background-color:#871659 ;
         margin: 0px auto;
         font-family: Raleway;
-        padding: 40px;
+        padding: 30px;
         border-radius: 10px
   
         
@@ -574,7 +574,7 @@ a {
         border-radius: 50%;
         padding: 10px 20px;
         font-size: 20px;
-        font-family: Raleway;
+        font-family: Itim;
         cursor: pointer
     }
     
@@ -764,7 +764,7 @@ a {
 }
 
 #section94 p{
-   font-size: 22px;
+   font-size: 18px;
    margin-left: 30px;
    letter-spacing: 2px;
    font-weight: 300;
@@ -950,7 +950,7 @@ margin-top: 10px;
     margin: 10px 0px;
     padding: 10px;
     box-sizing: border-box;
-    color: #f4f4f4;
+    color: #000;
     display: flex;
   }
   .c-inputs textarea{

@@ -141,6 +141,20 @@ function myFunction() {
                     moreText.style.display = "flex";
                 }
                 }
-        
-        
+                
+                
+                function myFunction4() 
+                var video = document.getElementById("myVideo4");
+                var btn = document.getElementById("myBtn4");
+                {
+                if (video.paused) 
+                {
+                video.play();
+                btn.innerHTML = "Pause";
+                } else {
+                video.pause();
+                btn.innerHTML = "Play";
+                }
+                }       
+ 
     
